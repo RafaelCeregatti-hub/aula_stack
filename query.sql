@@ -1,0 +1,1 @@
+select * from tb_basica limit 10;
